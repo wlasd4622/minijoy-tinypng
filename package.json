@@ -1,12 +1,10 @@
 {
   "name": "minijoy-tinypng",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "tinypng",
   "main": "index.js",
   "bin": {
-    "minijoy-tinypng": "./bin/start.js",
-    "m-tinypng": "./bin/start.js",
-    "tinypng": "./bin/start.js"
+    "minijoy-tinypng": "./bin/start.js"
   },
   "repository": {
     "type": "git",
