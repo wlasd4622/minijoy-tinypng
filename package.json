@@ -1,14 +1,11 @@
 {
   "name": "minijoy-tinypng",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "tinypng",
   "main": "index.js",
   "bin": {
-    "minijoy-tinypng": "./bin/start.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wlasd4622/minijoy-tinypng.git"
+    "minijoy-tinypng": "./bin/start.js",
+    "m-tinypng": "./bin/start.js"
   },
   "scripts": {
     "clean": "gulp clean",
