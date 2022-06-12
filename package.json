@@ -1,6 +1,6 @@
 {
   "name": "minijoy-tinypng",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "tinypng",
   "main": "index.js",
   "bin": {
